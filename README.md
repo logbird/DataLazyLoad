@@ -46,7 +46,12 @@ $(function(){
   }});
 });
 ```
-For [more](https://github.com/logbird/DataLazyLoad/tree/master/examples) examples 
+
+DEMO && EXAMPLES
+============
+> [EXAMPLES](https://github.com/logbird/DataLazyLoad/tree/master/examples) 
+
+> [DEMO](http://datalazyload.sinaapp.com/)
 
 Options
 ============
