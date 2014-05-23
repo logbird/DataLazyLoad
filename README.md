@@ -9,7 +9,7 @@ Load jQuery and jquery.lazyload.min.js
 <script src="jquery.js" type="text/javascript"></script>
 <script src="DataLazyLoad.min.js" type="text/javascript"></script>
 ```
-Add the html code
+Add the HTML code
 ```
 <ul class = 'list'>
 <li>aaaa</li>
